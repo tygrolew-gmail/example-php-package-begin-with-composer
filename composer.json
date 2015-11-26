@@ -3,6 +3,9 @@
     "autoload": {
         "psr-4" : {
             "TygrolewGmail\\": "src/"
-        }
+        },
+		"files": [
+            "/src/Utils/Functions/_d.php"
+        ]
     },
 }
