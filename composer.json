@@ -1,5 +1,5 @@
 {
-    "name": "tygrolew-gmail/example-php-package-with-composer",
+    "name": "tygrolew-gmail/example-php-package-begin-with-composer",
     "autoload": {
         "psr-4" : {
             "TygrolewGmail\\": "src/"
